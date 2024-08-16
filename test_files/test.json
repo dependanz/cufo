@@ -1,0 +1,66 @@
+{
+  "_id": "66953e4a89873e8ca69d80f0",
+  "index": 0,
+  "guid": "48f7f93c-4871-4480-aed6-314584213106",
+  "isActive": false,
+  "balance": "$1,894.58",
+  "picture": "http://placehold.it/32x32",
+  "age": 28,
+  "eyeColor": "brown",
+  "name": "Keith Goff",
+  "gender": "male",
+  "company": "SENTIA",
+  "email": "keithgoff@sentia.com",
+  "phone": "+1 (988) 578-2423",
+  "address": "328 Crown Street, Snyderville, California, 5095",
+  "about": "Eu pariatur ad minim laborum sit enim laborum do est consectetur commodo qui laborum eu. Officia dolor laboris incididunt occaecat aliqua adipisicing in esse laboris pariatur. Commodo ex commodo labore non commodo proident ut ad qui sunt.\r\n",
+  "registered": "2018-08-30T08:29:16 +04:00",
+  "latitude": -44.612565,
+  "longitude": 66.201923,
+  "tags": [
+    "incididunt",
+    "cupidatat",
+    "ad",
+    "minim",
+    "eiusmod",
+    "sunt",
+    "laborum"
+  ],
+  "friends": [
+    {
+      "id": 0,
+      "name": "Cannon Blanchard"
+    },
+    {
+      "id": 1,
+      "name": "Burris Howard"
+    },
+    {
+      "id": 2,
+      "name": "Christi Kramer"
+    }
+  ],
+  "greeting": "Hello, Keith Goff! You have 10 unread messages.",
+  "favoriteFruit": "strawberry",
+  "jsonrecurse": {
+    "jsonrecurse": {
+      "jsonrecurse": {
+        "jsonrecurse": {
+          "jsonrecurse": {
+            "jsonrecurse": {
+              "jsonrecurse": {
+                "jsonrecurse": {
+                  "jsonrecurse": {
+                    "jsonrecurse": {
+                      "lr": 1e-3
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
